@@ -1,4 +1,4 @@
-[![Documentation Status](https://github.com/nelson-barnett/SocialConnectedness/actions/workflows/docs.yml/badge.svg?branch=main)](https://nelson-barnett.github.io/SocialConnectedness/index.html)
+[![Documentation Status](https://github.com/nelson-barnett/SocialConnectedness/actions/workflows/docs.yml/badge.svg?branch=main)](https://connaghan-lab.github.io/SocialConnectedness/)
 # Social Connectedness Project using Beiwe 
 
 ## Intro
